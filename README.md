@@ -7,7 +7,9 @@ community.
 
 Under "additional information" you can link literature that can help
 newcomers get into the PR, such as Advent articles, blog entries, or
-documentation pages that are relevant to the proposed issue
+documentation pages that are relevant to the proposed issue.
+
+Add a line with your project, with the same formar.
 
 
 | Description                                            | Link                                    | Type                   | Additional information                                                                         |
