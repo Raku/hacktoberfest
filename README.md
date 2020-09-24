@@ -10,5 +10,6 @@ newcomers get into the PR, such as Advent articles, blog entries, or
 documentation pages that are relevant to the proposed issue
 
 
-| Description | Link | Additional information |
-|=============|======|========================|
+| Description                                            | Link                                    | Type                   | Additional information                                                                         |
+|========================================================|=========================================|========================|================================================================================================|
+| Improve the Ruby to Raku documentation                 | https://github.com/Raku/doc/issues/3652 | Documentation          | Basic, knowledge of Ruby and some knowledge of Raku required. Written in Pod6, Raku doc format |
