@@ -9,7 +9,7 @@ Under "additional information" you can link literature that can help
 newcomers get into the PR, such as Advent articles, blog entries, or
 documentation pages that are relevant to the proposed issue.
 
-Add a line with your project, with the same formar.
+Add a line with your project, with the same format.
 
 
 | Description with link                                                              | Type                   | Additional information                                                                                                         |
